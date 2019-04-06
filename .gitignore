@@ -8,6 +8,9 @@ html/
 # compiled files
 *.mexw??
 
+# ignore toolboxes - they are binary releases
+*.mltbx
+
 # Backup files for Matlab Editor, Simulink and Simulink Model Conversion
 *.asv
 *.bak
