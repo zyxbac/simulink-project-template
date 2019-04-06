@@ -1,0 +1,18 @@
+# ignore simulation log files
+
+# ignore typical Matlab "temporary" folders (e.g. auto-generated contents)
+work/
+slprj/
+html/
+
+# compiled files
+*.mexw??
+
+# Backup files for Matlab Editor, Simulink and Simulink Model Conversion
+*.asv
+*.bak
+*.autosave
+*.r20??[ab]
+
+# Backup files (non Mathworks)
+*~
